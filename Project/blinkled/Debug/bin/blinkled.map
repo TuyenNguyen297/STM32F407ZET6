@@ -1,0 +1,1576 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_cos.o)
+                              ..\obj\stepper.o (cosf)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_round.o)
+                              ..\obj\stepper.o (roundf)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_sin.o)
+                              ..\obj\stepper.o (sinf)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o)
+                              ..\obj\adc.o (log)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_log.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o) (__ieee754_log)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_cos.o) (__ieee754_rem_pio2f)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_cos.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_cos.o) (__kernel_cosf)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o) (__kernel_rem_pio2f)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_sin.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_cos.o) (__kernel_sinf)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o) (__fdlib_version)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o) (matherr)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o) (nan)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_fabs.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o) (fabsf)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_floor.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o) (floorf)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_scalbn.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o) (scalbnf)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_copysign.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_scalbn.o) (copysignf)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                              ..\obj\timer.o (__aeabi_dsub)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                              ..\obj\stepper.o (__aeabi_dmul)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o) (__aeabi_dcmpeq)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_unorddf2.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o) (__aeabi_dcmpun)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+                              ..\obj\timer.o (__aeabi_d2uiz)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+                              ..\obj\LCD_HD44780.o (__aeabi_d2f)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+                              ..\obj\timer.o (__aeabi_fsub)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+                              ..\obj\stepper.o (__aeabi_fmul)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o) (__aeabi_fcmpeq)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixsfsi.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o) (__aeabi_f2iz)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+                              ..\obj\timer.o (__aeabi_f2uiz)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-errno.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o) (__errno)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-errno.o) (_impure_ptr)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sprintf.o)
+                              ..\obj\LCD_HD44780.o (sprintf)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sprintf.o) (_svfprintf_r)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o) (_dtoa_r)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-localeconv.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o) (_localeconv_r)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o) (_malloc_r)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memchr.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o) (memchr)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o) (memcpy)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o) (__malloc_lock)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o) (_Balloc)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o) (_sbrk_r)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strlen.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o) (strlen)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o) (__ssprint_r)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-callocr.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o) (_calloc_r)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o) (_free_r)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-localeconv.o) (__global_locale)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mbtowc_r.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o) (__ascii_mbtowc)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memmove.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o) (memmove)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memset.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-callocr.o) (memset)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reallocr.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o) (_realloc_r)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o) (errno)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o) (strcmp)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-wctomb_r.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o) (__ascii_wctomb)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-ctype_.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o) (_ctype_)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o) (__aeabi_d2iz)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_aeabi_uldivmod.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_udivmoddi4.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_dvmd_tls.o)
+                              d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+rtc_dt              0x8               ..\obj\rtc.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ..\obj\timer.o
+ .data          0x00000000        0x0 ..\obj\timer.o
+ .bss           0x00000000        0x0 ..\obj\timer.o
+ .text.Capture_Init
+                0x00000000      0x8e8 ..\obj\timer.o
+ .text.Setup_IC_Mode
+                0x00000000      0x23c ..\obj\timer.o
+ .text          0x00000000        0x0 ..\obj\LCD_HD44780.o
+ .text.LCD_Shift
+                0x00000000       0x40 ..\obj\LCD_HD44780.o
+ .text          0x00000000        0x0 ..\obj\rtc.o
+ .data          0x00000000        0x0 ..\obj\rtc.o
+ .text          0x00000000        0x0 ..\obj\stepper.o
+ .bss           0x00000000        0x0 ..\obj\stepper.o
+ .rodata        0x00000000       0x20 ..\obj\stepper.o
+ .text.Stepper_NoneMicroMove
+                0x00000000      0x148 ..\obj\stepper.o
+ .text.Stepper_NoneMicroMove_Once
+                0x00000000       0xf8 ..\obj\stepper.o
+ .text.Stepper_DePower
+                0x00000000       0x28 ..\obj\stepper.o
+ .text          0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .data          0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .bss           0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .text          0x00000000        0x0 ..\obj\main.o
+ .text          0x00000000        0x0 ..\obj\gpio.o
+ .data          0x00000000        0x0 ..\obj\gpio.o
+ .bss           0x00000000        0x0 ..\obj\gpio.o
+ .text.Bunk_DigitalWrite
+                0x00000000       0x40 ..\obj\gpio.o
+ .text.Confirm_Set_Mode_Success
+                0x00000000       0x6c ..\obj\gpio.o
+ .text.Beep_Once
+                0x00000000       0x34 ..\obj\gpio.o
+ .text          0x00000000        0x0 ..\obj\ultrasonic.o
+ .data          0x00000000        0x0 ..\obj\ultrasonic.o
+ .text          0x00000000        0x0 ..\obj\interrupt.o
+ .data          0x00000000        0x0 ..\obj\interrupt.o
+ .bss           0x00000000        0x0 ..\obj\interrupt.o
+ .text          0x00000000        0x0 ..\obj\keypad.o
+ .text          0x00000000        0x0 ..\obj\system_stm32f4xx.o
+ .data          0x00000000       0x14 ..\obj\system_stm32f4xx.o
+ .bss           0x00000000        0x0 ..\obj\system_stm32f4xx.o
+ .text.SystemInit
+                0x00000000       0x5c ..\obj\system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xf8 ..\obj\system_stm32f4xx.o
+ .text.SetSysClock
+                0x00000000       0xf4 ..\obj\system_stm32f4xx.o
+ .debug_info    0x00000000      0x5c5 ..\obj\system_stm32f4xx.o
+ .debug_abbrev  0x00000000      0x138 ..\obj\system_stm32f4xx.o
+ .debug_aranges
+                0x00000000       0x30 ..\obj\system_stm32f4xx.o
+ .debug_ranges  0x00000000       0x20 ..\obj\system_stm32f4xx.o
+ .debug_line    0x00000000      0x20e ..\obj\system_stm32f4xx.o
+ .debug_str     0x00000000      0x3be ..\obj\system_stm32f4xx.o
+ .comment       0x00000000       0x6f ..\obj\system_stm32f4xx.o
+ .debug_frame   0x00000000       0x7c ..\obj\system_stm32f4xx.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\system_stm32f4xx.o
+ .text          0x00000000        0x0 ..\obj\syscalls.o
+ .data          0x00000000        0x0 ..\obj\syscalls.o
+ .text.link     0x00000000       0x18 ..\obj\syscalls.o
+ .text._close   0x00000000       0x18 ..\obj\syscalls.o
+ .text._fstat   0x00000000       0x20 ..\obj\syscalls.o
+ .text._isatty  0x00000000       0x14 ..\obj\syscalls.o
+ .text._lseek   0x00000000       0x18 ..\obj\syscalls.o
+ .text._read    0x00000000       0x18 ..\obj\syscalls.o
+ .text._write   0x00000000       0x18 ..\obj\syscalls.o
+ .text.abort    0x00000000        0x8 ..\obj\syscalls.o
+ .text          0x00000000        0x0 ..\obj\adc.o
+ .bss           0x00000000        0x0 ..\obj\adc.o
+ .text.ADC_Get_Value
+                0x00000000       0x2c ..\obj\adc.o
+ .text.Display_ADC_Result
+                0x00000000       0xb8 ..\obj\adc.o
+ .text          0x00000000        0x0 ..\obj\symbol.o
+ .bss           0x00000000        0x0 ..\obj\symbol.o
+ .text          0x00000000        0x0 ..\obj\misc.o
+ .data          0x00000000        0x0 ..\obj\misc.o
+ .bss           0x00000000        0x0 ..\obj\misc.o
+ .text.rotateString
+                0x00000000       0x94 ..\obj\misc.o
+ .text          0x00000000        0x0 ..\obj\SN74HC595.o
+ .data          0x00000000        0x0 ..\obj\SN74HC595.o
+ .bss           0x00000000        0x0 ..\obj\SN74HC595.o
+ .text          0x00000000        0x0 ..\obj\clock.o
+ .data          0x00000000        0x0 ..\obj\clock.o
+ .bss           0x00000000        0x0 ..\obj\clock.o
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_cos.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_cos.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_cos.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_round.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_round.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_round.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_sin.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_sin.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_sin.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_log.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_log.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_log.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_cos.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_cos.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_cos.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_sin.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_sin.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_sin.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_fabs.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_fabs.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_fabs.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_floor.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_floor.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_floor.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_scalbn.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_scalbn.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_scalbn.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_copysign.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_copysign.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_copysign.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixsfsi.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x44 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sprintf.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-localeconv.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-localeconv.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-localeconv.o)
+ .text.__localeconv_l
+                0x00000000        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-localeconv.o)
+ .text.localeconv
+                0x00000000       0x1c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-localeconv.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .text.__s2b    0x00000000       0x98 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .text.__ulp    0x00000000       0x44 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .text.__b2d    0x00000000       0xd4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .text.__ratio  0x00000000       0x54 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x00000000       0x34 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .text.__copybits
+                0x00000000       0x48 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .text.__any_on
+                0x00000000       0x5c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x00000000       0x28 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+ .text._svfiprintf_r
+                0x00000000      0xc5c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+ .rodata.blanks.7235
+                0x00000000       0x10 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+ .rodata.str1.4
+                0x00000000       0x2f d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.7236
+                0x00000000       0x10 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-callocr.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-callocr.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-callocr.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .text.__get_current_locale
+                0x00000000       0x18 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x00000000       0x40 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x00000000       0x1c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .text.__locale_ctype_ptr_l
+                0x00000000        0x8 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .text.__locale_ctype_ptr
+                0x00000000       0x14 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .text.setlocale
+                0x00000000       0x10 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x00000000        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mbtowc_r.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mbtowc_r.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x00000000       0x24 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mbtowc_r.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .text          0x00000000      0x2dc d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+ .debug_frame   0x00000000       0x68 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000       0x1c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-wctomb_r.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-wctomb_r.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-wctomb_r.o)
+ .text._wctomb_r
+                0x00000000       0x24 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-wctomb_r.o)
+ .text          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-ctype_.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00080000         xr
+ram              0x20000000         0x00020000         xrw
+ram1             0x10000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20020000                _eram = 0x20020000
+
+.text           0x08000000     0xaf21
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 ..\obj\startup_stm32f4xx.o
+                0x08000000                g_pfnVectors
+ *(.text*)
+ .text.Systick_Init
+                0x08000188       0x78 ..\obj\timer.o
+                0x08000188                Systick_Init
+ .text.Systick_Reset
+                0x08000200       0x1c ..\obj\timer.o
+                0x08000200                Systick_Reset
+ .text.TIM_ADDRESS
+                0x0800021c       0xb0 ..\obj\timer.o
+                0x0800021c                TIM_ADDRESS
+ .text.Basic_Timer_Init
+                0x080002cc      0x108 ..\obj\timer.o
+                0x080002cc                Basic_Timer_Init
+ .text.Trigger_Timer_IRQ_MS
+                0x080003d4       0x84 ..\obj\timer.o
+                0x080003d4                Trigger_Timer_IRQ_MS
+ .text.delay_ms
+                0x08000458       0x8c ..\obj\timer.o
+                0x08000458                delay_ms
+ .text.delay_us
+                0x080004e4       0x74 ..\obj\timer.o
+                0x080004e4                delay_us
+ .text.PWM_Init
+                0x08000558      0x6e8 ..\obj\timer.o
+                0x08000558                PWM_Init
+ .text.PWM_ENA_CHN
+                0x08000c40       0x54 ..\obj\timer.o
+                0x08000c40                PWM_ENA_CHN
+ .text.Set_PWM  0x08000c94       0x80 ..\obj\timer.o
+                0x08000c94                Set_PWM
+ .text.Setup_PWM_Mode
+                0x08000d14      0x31c ..\obj\timer.o
+                0x08000d14                Setup_PWM_Mode
+ .text.is_Timer_Belong_To
+                0x08001030       0x3c ..\obj\timer.o
+                0x08001030                is_Timer_Belong_To
+ .text.LCD_Latch
+                0x0800106c       0x38 ..\obj\LCD_HD44780.o
+                0x0800106c                LCD_Latch
+ .text.LCD_Clear
+                0x080010a4       0x1c ..\obj\LCD_HD44780.o
+                0x080010a4                LCD_Clear
+ .text.LCD_Clear_Row_From_Col
+                0x080010c0       0x8c ..\obj\LCD_HD44780.o
+                0x080010c0                LCD_Clear_Row_From_Col
+ .text.LCD_SetEntry
+                0x0800114c       0x28 ..\obj\LCD_HD44780.o
+                0x0800114c                LCD_SetEntry
+ .text.LCD_SetDisplay
+                0x08001174       0x28 ..\obj\LCD_HD44780.o
+                0x08001174                LCD_SetDisplay
+ .text.LCD_SetFunction
+                0x0800119c       0x40 ..\obj\LCD_HD44780.o
+                0x0800119c                LCD_SetFunction
+ *fill*         0x080011dc        0x4 
+ .text.LCD_Init
+                0x080011e0       0xa8 ..\obj\LCD_HD44780.o
+                0x080011e0                LCD_Init
+ .text.LCD_Command
+                0x08001288       0x28 ..\obj\LCD_HD44780.o
+                0x08001288                LCD_Command
+ .text.LCD_Print
+                0x080012b0       0x34 ..\obj\LCD_HD44780.o
+                0x080012b0                LCD_Print
+ .text.LCD_PutData
+                0x080012e4       0xa4 ..\obj\LCD_HD44780.o
+                0x080012e4                LCD_PutData
+ .text.LCD_SetCursor
+                0x08001388       0x30 ..\obj\LCD_HD44780.o
+                0x08001388                LCD_SetCursor
+ .text.LCD_Print_2D_String
+                0x080013b8       0x58 ..\obj\LCD_HD44780.o
+                0x080013b8                LCD_Print_2D_String
+ .text.LCD_Display
+                0x08001410      0x304 ..\obj\LCD_HD44780.o
+                0x08001410                LCD_Display
+ .text.RTC_Init
+                0x08001714      0x28c ..\obj\rtc.o
+                0x08001714                RTC_Init
+ .text.Update_RTC_Clock
+                0x080019a0      0x198 ..\obj\rtc.o
+                0x080019a0                Update_RTC_Clock
+ .text.Display_RTC_Clock
+                0x08001b38      0x19c ..\obj\rtc.o
+                0x08001b38                Display_RTC_Clock
+ *fill*         0x08001cd4        0x4 
+ .text.Stepper_MicroMove
+                0x08001cd8      0x148 ..\obj\stepper.o
+                0x08001cd8                Stepper_MicroMove
+ .text.Default_Reset_Handler
+                0x08001e20       0x5c ..\obj\startup_stm32f4xx.o
+                0x08001e20                Default_Reset_Handler
+                0x08001e20                Reset_Handler
+ .text.Default_Handler
+                0x08001e7c        0x8 ..\obj\startup_stm32f4xx.o
+                0x08001e7c                RTC_Alarm_IRQHandler
+                0x08001e7c                HASH_RNG_IRQHandler
+                0x08001e7c                EXTI2_IRQHandler
+                0x08001e7c                TIM8_CC_IRQHandler
+                0x08001e7c                DebugMon_Handler
+                0x08001e7c                DMA2_Stream5_IRQHandler
+                0x08001e7c                HardFault_Handler
+                0x08001e7c                DMA1_Stream5_IRQHandler
+                0x08001e7c                PVD_IRQHandler
+                0x08001e7c                SDIO_IRQHandler
+                0x08001e7c                TAMP_STAMP_IRQHandler
+                0x08001e7c                PendSV_Handler
+                0x08001e7c                NMI_Handler
+                0x08001e7c                CAN2_RX1_IRQHandler
+                0x08001e7c                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08001e7c                TIM8_UP_TIM13_IRQHandler
+                0x08001e7c                I2C3_ER_IRQHandler
+                0x08001e7c                EXTI0_IRQHandler
+                0x08001e7c                I2C2_EV_IRQHandler
+                0x08001e7c                DMA1_Stream2_IRQHandler
+                0x08001e7c                CAN1_RX0_IRQHandler
+                0x08001e7c                FPU_IRQHandler
+                0x08001e7c                OTG_HS_WKUP_IRQHandler
+                0x08001e7c                UsageFault_Handler
+                0x08001e7c                CAN2_SCE_IRQHandler
+                0x08001e7c                DMA2_Stream2_IRQHandler
+                0x08001e7c                SPI1_IRQHandler
+                0x08001e7c                DCMI_IRQHandler
+                0x08001e7c                CAN2_RX0_IRQHandler
+                0x08001e7c                DMA2_Stream3_IRQHandler
+                0x08001e7c                USART6_IRQHandler
+                0x08001e7c                USART3_IRQHandler
+                0x08001e7c                CRYP_IRQHandler
+                0x08001e7c                CAN1_RX1_IRQHandler
+                0x08001e7c                UART5_IRQHandler
+                0x08001e7c                DMA2_Stream0_IRQHandler
+                0x08001e7c                TIM4_IRQHandler
+                0x08001e7c                I2C1_EV_IRQHandler
+                0x08001e7c                DMA1_Stream6_IRQHandler
+                0x08001e7c                DMA1_Stream1_IRQHandler
+                0x08001e7c                UART4_IRQHandler
+                0x08001e7c                RCC_IRQHandler
+                0x08001e7c                TIM8_BRK_TIM12_IRQHandler
+                0x08001e7c                DMA1_Stream7_IRQHandler
+                0x08001e7c                CAN2_TX_IRQHandler
+                0x08001e7c                TIM5_IRQHandler
+                0x08001e7c                DMA2_Stream7_IRQHandler
+                0x08001e7c                I2C3_EV_IRQHandler
+                0x08001e7c                EXTI9_5_IRQHandler
+                0x08001e7c                RTC_WKUP_IRQHandler
+                0x08001e7c                ETH_WKUP_IRQHandler
+                0x08001e7c                SPI2_IRQHandler
+                0x08001e7c                OTG_HS_EP1_IN_IRQHandler
+                0x08001e7c                MemManage_Handler
+                0x08001e7c                DMA1_Stream0_IRQHandler
+                0x08001e7c                CAN1_TX_IRQHandler
+                0x08001e7c                SVC_Handler
+                0x08001e7c                FSMC_IRQHandler
+                0x08001e7c                ETH_IRQHandler
+                0x08001e7c                OTG_HS_EP1_OUT_IRQHandler
+                0x08001e7c                WWDG_IRQHandler
+                0x08001e7c                OTG_FS_WKUP_IRQHandler
+                0x08001e7c                OTG_HS_IRQHandler
+                0x08001e7c                EXTI1_IRQHandler
+                0x08001e7c                USART2_IRQHandler
+                0x08001e7c                I2C2_ER_IRQHandler
+                0x08001e7c                DMA2_Stream1_IRQHandler
+                0x08001e7c                CAN1_SCE_IRQHandler
+                0x08001e7c                FLASH_IRQHandler
+                0x08001e7c                DMA2_Stream4_IRQHandler
+                0x08001e7c                BusFault_Handler
+                0x08001e7c                USART1_IRQHandler
+                0x08001e7c                OTG_FS_IRQHandler
+                0x08001e7c                SPI3_IRQHandler
+                0x08001e7c                DMA1_Stream4_IRQHandler
+                0x08001e7c                I2C1_ER_IRQHandler
+                0x08001e7c                DMA2_Stream6_IRQHandler
+                0x08001e7c                DMA1_Stream3_IRQHandler
+ .text.SysTick_Handler
+                0x08001e84       0x28 ..\obj\main.o
+                0x08001e84                SysTick_Handler
+ .text.TIM1_CC_IRQHandler
+                0x08001eac      0x164 ..\obj\main.o
+                0x08001eac                TIM1_CC_IRQHandler
+ .text.TIM3_IRQHandler
+                0x08002010       0xcc ..\obj\main.o
+                0x08002010                TIM3_IRQHandler
+ .text.TIM6_DAC_IRQHandler
+                0x080020dc      0x160 ..\obj\main.o
+                0x080020dc                TIM6_DAC_IRQHandler
+ .text.TIM7_IRQHandler
+                0x0800223c       0x60 ..\obj\main.o
+                0x0800223c                TIM7_IRQHandler
+ .text.TIM1_BRK_TIM9_IRQHandler
+                0x0800229c       0xd0 ..\obj\main.o
+                0x0800229c                TIM1_BRK_TIM9_IRQHandler
+ .text.TIM2_IRQHandler
+                0x0800236c       0x44 ..\obj\main.o
+                0x0800236c                TIM2_IRQHandler
+ .text.TIM1_UP_TIM10_IRQHandler
+                0x080023b0       0x74 ..\obj\main.o
+                0x080023b0                TIM1_UP_TIM10_IRQHandler
+ .text.TIM1_TRG_COM_TIM11_IRQHandler
+                0x08002424       0xc8 ..\obj\main.o
+                0x08002424                TIM1_TRG_COM_TIM11_IRQHandler
+ .text.EXTI3_IRQHandler
+                0x080024ec       0x6c ..\obj\main.o
+                0x080024ec                EXTI3_IRQHandler
+ .text.EXTI4_IRQHandler
+                0x08002558       0x80 ..\obj\main.o
+                0x08002558                EXTI4_IRQHandler
+ .text.EXTI15_10_IRQHandler
+                0x080025d8      0x244 ..\obj\main.o
+                0x080025d8                EXTI15_10_IRQHandler
+ .text.ADC_IRQHandler
+                0x0800281c       0xa8 ..\obj\main.o
+                0x0800281c                ADC_IRQHandler
+ .text.Display_Distance_HCSR04
+                0x080028c4      0x10c ..\obj\main.o
+                0x080028c4                Display_Distance_HCSR04
+ .text.main     0x080029d0      0x274 ..\obj\main.o
+                0x080029d0                main
+ .text.GPIO_ADDRESS
+                0x08002c44       0x20 ..\obj\gpio.o
+                0x08002c44                GPIO_ADDRESS
+ .text.pinLength
+                0x08002c64       0x2c ..\obj\gpio.o
+                0x08002c64                pinLength
+ .text.pinBank  0x08002c90       0x7c ..\obj\gpio.o
+                0x08002c90                pinBank
+ .text.GPIO_Init
+                0x08002d0c      0x100 ..\obj\gpio.o
+                0x08002d0c                GPIO_Init
+ .text.Bunk_Init
+                0x08002e0c       0x40 ..\obj\gpio.o
+                0x08002e0c                Bunk_Init
+ .text.GPIO_Set_AF_Mode
+                0x08002e4c      0x108 ..\obj\gpio.o
+                0x08002e4c                GPIO_Set_AF_Mode
+ .text.digitalWrite
+                0x08002f54       0xb8 ..\obj\gpio.o
+                0x08002f54                digitalWrite
+ .text.digitalRead
+                0x0800300c       0x44 ..\obj\gpio.o
+                0x0800300c                digitalRead
+ .text.Beep_Twice
+                0x08003050       0x54 ..\obj\gpio.o
+                0x08003050                Beep_Twice
+ .text.Ultrasonic_HCSR04_Init
+                0x080030a4      0x260 ..\obj\ultrasonic.o
+                0x080030a4                Ultrasonic_HCSR04_Init
+ .text.EXTI_Init
+                0x08003304      0x118 ..\obj\interrupt.o
+                0x08003304                EXTI_Init
+ .text.EXTI_ReActivate
+                0x0800341c       0x70 ..\obj\interrupt.o
+                0x0800341c                EXTI_ReActivate
+ .text.EXTI_DeActivate
+                0x0800348c       0x64 ..\obj\interrupt.o
+                0x0800348c                EXTI_DeActivate
+ .text.Debounce_EXTI
+                0x080034f0       0x3c ..\obj\interrupt.o
+                0x080034f0                Debounce_EXTI
+ .text.Keypad_Scan
+                0x0800352c       0xa4 ..\obj\keypad.o
+                0x0800352c                Keypad_Scan
+ .text.React_On_KeyPressed
+                0x080035d0       0xb0 ..\obj\keypad.o
+                0x080035d0                React_On_KeyPressed
+ .text._sbrk    0x08003680       0x3c ..\obj\syscalls.o
+                0x08003680                _sbrk
+ .text.ADC_Init
+                0x080036bc      0x1ec ..\obj\adc.o
+                0x080036bc                ADC_Init
+ .text.Convert_ADC
+                0x080038a8      0x250 ..\obj\adc.o
+                0x080038a8                Convert_ADC
+ .text.Voltage_From_ADC
+                0x08003af8       0x60 ..\obj\adc.o
+                0x08003af8                Voltage_From_ADC
+ .text.ADC_Restart
+                0x08003b58       0x3c ..\obj\adc.o
+                0x08003b58                ADC_Restart
+ .text.List_Conv_Order_To_SQR
+                0x08003b94       0x9c ..\obj\adc.o
+                0x08003b94                List_Conv_Order_To_SQR
+ .text.List_Smp_Time_To_SMP
+                0x08003c30       0x80 ..\obj\adc.o
+                0x08003c30                List_Smp_Time_To_SMP
+ .text.Periodic_Read_ADC
+                0x08003cb0       0x74 ..\obj\adc.o
+                0x08003cb0                Periodic_Read_ADC
+ .text.BCD_To_DEC
+                0x08003d24       0x54 ..\obj\misc.o
+                0x08003d24                BCD_To_DEC
+ .text.int_power
+                0x08003d78       0x30 ..\obj\misc.o
+                0x08003d78                int_power
+ .text.Int_ToString
+                0x08003da8       0xec ..\obj\misc.o
+                0x08003da8                Int_ToString
+ .text.Shift_Data_MSBFIRST
+                0x08003e94       0x54 ..\obj\SN74HC595.o
+                0x08003e94                Shift_Data_MSBFIRST
+ .text.HC595_Write_7SEG
+                0x08003ee8       0x9c ..\obj\SN74HC595.o
+                0x08003ee8                HC595_Write_7SEG
+ .text.Select_Clock_Source
+                0x08003f84      0x1f0 ..\obj\clock.o
+                0x08003f84                Select_Clock_Source
+ .text.Confirm_Clock_Source
+                0x08004174       0x54 ..\obj\clock.o
+                0x08004174                Confirm_Clock_Source
+ .text.cosf     0x080041c8       0x78 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_cos.o)
+                0x080041c8                cosf
+ .text.roundf   0x08004240       0x48 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_round.o)
+                0x08004240                roundf
+ .text.sinf     0x08004288       0x7c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_sin.o)
+                0x08004288                sinf
+ .text.log      0x08004304       0xfc d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o)
+                0x08004304                log
+ .text.__ieee754_log
+                0x08004400      0x3e8 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_log.o)
+                0x08004400                __ieee754_log
+ .text.__ieee754_rem_pio2f
+                0x080047e8      0x2e4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o)
+                0x080047e8                __ieee754_rem_pio2f
+ .text.__kernel_cosf
+                0x08004acc      0x188 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_cos.o)
+                0x08004acc                __kernel_cosf
+ .text.__kernel_rem_pio2f
+                0x08004c54      0x69c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o)
+                0x08004c54                __kernel_rem_pio2f
+ .text.__kernel_sinf
+                0x080052f0       0xec d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_sin.o)
+                0x080052f0                __kernel_sinf
+ .text.matherr  0x080053dc        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+                0x080053dc                matherr
+ .text.nan      0x080053e0        0xc d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+                0x080053e0                nan
+ .text.fabsf    0x080053ec        0x8 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_fabs.o)
+                0x080053ec                fabsf
+ .text.floorf   0x080053f4       0x8c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_floor.o)
+                0x080053f4                floorf
+ .text.scalbnf  0x08005480       0xb0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_scalbn.o)
+                0x08005480                scalbnf
+ .text.copysignf
+                0x08005530        0xc d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_copysign.o)
+                0x08005530                copysignf
+ .text          0x0800553c      0x370 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                0x0800553c                __aeabi_drsub
+                0x08005544                __aeabi_dsub
+                0x08005544                __subdf3
+                0x08005548                __aeabi_dadd
+                0x08005548                __adddf3
+                0x080057c0                __floatunsidf
+                0x080057c0                __aeabi_ui2d
+                0x080057e0                __floatsidf
+                0x080057e0                __aeabi_i2d
+                0x08005804                __aeabi_f2d
+                0x08005804                __extendsfdf2
+                0x08005840                __floatundidf
+                0x08005840                __aeabi_ul2d
+                0x08005850                __floatdidf
+                0x08005850                __aeabi_l2d
+ .text          0x080058ac      0x424 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                0x080058ac                __aeabi_dmul
+                0x080058ac                __muldf3
+                0x08005b00                __divdf3
+                0x08005b00                __aeabi_ddiv
+ .text          0x08005cd0      0x110 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                0x08005cd0                __gtdf2
+                0x08005cd0                __gedf2
+                0x08005cd8                __ltdf2
+                0x08005cd8                __ledf2
+                0x08005ce0                __nedf2
+                0x08005ce0                __eqdf2
+                0x08005ce0                __cmpdf2
+                0x08005d5c                __aeabi_cdrcmple
+                0x08005d6c                __aeabi_cdcmpeq
+                0x08005d6c                __aeabi_cdcmple
+                0x08005d7c                __aeabi_dcmpeq
+                0x08005d90                __aeabi_dcmplt
+                0x08005da4                __aeabi_dcmple
+                0x08005db8                __aeabi_dcmpge
+                0x08005dcc                __aeabi_dcmpgt
+ .text          0x08005de0       0x2c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_unorddf2.o)
+                0x08005de0                __unorddf2
+                0x08005de0                __aeabi_dcmpun
+ .text          0x08005e0c       0x40 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+                0x08005e0c                __aeabi_d2uiz
+                0x08005e0c                __fixunsdfsi
+ .text          0x08005e4c       0xa0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+                0x08005e4c                __truncdfsf2
+                0x08005e4c                __aeabi_d2f
+ .text          0x08005eec      0x21c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+                0x08005eec                __aeabi_frsub
+                0x08005ef4                __subsf3
+                0x08005ef4                __aeabi_fsub
+                0x08005ef8                __aeabi_fadd
+                0x08005ef8                __addsf3
+                0x08006058                __aeabi_ui2f
+                0x08006058                __floatunsisf
+                0x08006060                __aeabi_i2f
+                0x08006060                __floatsisf
+                0x0800607c                __aeabi_ul2f
+                0x0800607c                __floatundisf
+                0x0800608c                __aeabi_l2f
+                0x0800608c                __floatdisf
+ .text          0x08006108      0x2a0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+                0x08006108                __mulsf3
+                0x08006108                __aeabi_fmul
+                0x08006270                __aeabi_fdiv
+                0x08006270                __divsf3
+ .text          0x080063a8       0xec d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+                0x080063a8                __gesf2
+                0x080063a8                __gtsf2
+                0x080063b0                __lesf2
+                0x080063b0                __ltsf2
+                0x080063b8                __nesf2
+                0x080063b8                __eqsf2
+                0x080063b8                __cmpsf2
+                0x08006418                __aeabi_cfrcmple
+                0x08006420                __aeabi_cfcmpeq
+                0x08006420                __aeabi_cfcmple
+                0x08006430                __aeabi_fcmpeq
+                0x08006444                __aeabi_fcmplt
+                0x08006458                __aeabi_fcmple
+                0x0800646c                __aeabi_fcmpge
+                0x08006480                __aeabi_fcmpgt
+ .text          0x08006494       0x4c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixsfsi.o)
+                0x08006494                __aeabi_f2iz
+                0x08006494                __fixsfsi
+ .text          0x080064e0       0x40 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+                0x080064e0                __fixunssfsi
+                0x080064e0                __aeabi_f2uiz
+ .text.__errno  0x08006520        0xc d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-errno.o)
+                0x08006520                __errno
+ .text.sprintf  0x0800652c       0x4c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sprintf.o)
+                0x0800652c                sprintf
+ .text._svfprintf_r
+                0x08006578     0x16b0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o)
+                0x08006578                _svfprintf_r
+ .text.quorem   0x08007c28      0x128 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o)
+ .text._dtoa_r  0x08007d50      0xe58 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o)
+                0x08007d50                _dtoa_r
+ .text._localeconv_r
+                0x08008ba8       0x1c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-localeconv.o)
+                0x08008ba8                _localeconv_r
+ .text._malloc_r
+                0x08008bc4      0x570 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x08008bc4                _malloc_r
+ *fill*         0x08009134        0xc 
+ .text          0x08009140       0xa0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memchr.o)
+                0x08009140                memchr
+ .text          0x080091e0      0x134 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+                0x080091e0                memcpy
+ .text.__malloc_lock
+                0x08009314        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+                0x08009314                __malloc_lock
+ .text.__malloc_unlock
+                0x08009318        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+                0x08009318                __malloc_unlock
+ .text._Balloc  0x0800931c       0x4c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x0800931c                _Balloc
+ .text._Bfree   0x08009368       0x14 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x08009368                _Bfree
+ .text.__multadd
+                0x0800937c       0x80 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x0800937c                __multadd
+ .text.__hi0bits
+                0x080093fc       0x40 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x080093fc                __hi0bits
+ .text.__lo0bits
+                0x0800943c       0x5c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x0800943c                __lo0bits
+ .text.__i2b    0x08009498       0x14 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x08009498                __i2b
+ .text.__multiply
+                0x080094ac      0x130 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x080094ac                __multiply
+ .text.__pow5mult
+                0x080095dc       0xa0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x080095dc                __pow5mult
+ .text.__lshift
+                0x0800967c       0xb0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x0800967c                __lshift
+ .text.__mcmp   0x0800972c       0x40 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x0800972c                __mcmp
+ .text.__mdiff  0x0800976c      0x114 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x0800976c                __mdiff
+ .text.__d2b    0x08009880       0xb8 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x08009880                __d2b
+ .text._sbrk_r  0x08009938       0x24 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+                0x08009938                _sbrk_r
+ *fill*         0x0800995c       0x24 
+ .text          0x08009980       0xdc d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strlen.o)
+                0x08009980                strlen
+ .text.__ssprint_r
+                0x08009a5c      0x100 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+                0x08009a5c                __ssprint_r
+ .text._calloc_r
+                0x08009b5c       0x60 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-callocr.o)
+                0x08009b5c                _calloc_r
+ .text._malloc_trim_r
+                0x08009bbc       0x9c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+                0x08009bbc                _malloc_trim_r
+ .text._free_r  0x08009c58      0x1d0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+                0x08009c58                _free_r
+ .text.__ascii_mbtowc
+                0x08009e28       0x2c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mbtowc_r.o)
+                0x08009e28                __ascii_mbtowc
+ .text.memmove  0x08009e54       0xc8 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memmove.o)
+                0x08009e54                memmove
+ .text.memset   0x08009f1c       0x9c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memset.o)
+                0x08009f1c                memset
+ .text._realloc_r
+                0x08009fb8      0x3e0 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reallocr.o)
+                0x08009fb8                _realloc_r
+ .text.__ascii_wctomb
+                0x0800a398       0x1c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-wctomb_r.o)
+                0x0800a398                __ascii_wctomb
+ .text          0x0800a3b4       0x50 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+                0x0800a3b4                __aeabi_d2iz
+                0x0800a3b4                __fixdfsi
+ .text          0x0800a404       0x30 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_aeabi_uldivmod.o)
+                0x0800a404                __aeabi_uldivmod
+ .text          0x0800a434      0x2e4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_udivmoddi4.o)
+                0x0800a434                __udivmoddi4
+ .text          0x0800a718        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_dvmd_tls.o)
+                0x0800a718                __aeabi_idiv0
+                0x0800a718                __aeabi_ldiv0
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x0800a71c       0x3b ..\obj\timer.o
+ *fill*         0x0800a757        0x1 
+ .rodata        0x0800a758       0x32 ..\obj\LCD_HD44780.o
+ *fill*         0x0800a78a        0x2 
+ .rodata        0x0800a78c       0x2e ..\obj\rtc.o
+ *fill*         0x0800a7ba        0x2 
+ .rodata        0x0800a7bc       0x57 ..\obj\main.o
+ *fill*         0x0800a813        0x1 
+ .rodata        0x0800a814        0x4 ..\obj\gpio.o
+ .rodata        0x0800a818       0x12 ..\obj\adc.o
+ *fill*         0x0800a82a        0x2 
+ .rodata        0x0800a82c       0x83 ..\obj\symbol.o
+ *fill*         0x0800a8af        0x1 
+ .rodata        0x0800a8b0        0xb ..\obj\SN74HC595.o
+ *fill*         0x0800a8bb        0x1 
+ .rodata        0x0800a8bc        0xb ..\obj\clock.o
+ *fill*         0x0800a8c7        0x1 
+ .rodata.str1.4
+                0x0800a8c8        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o)
+                                  0x5 (size before relaxing)
+ .rodata.npio2_hw
+                0x0800a8cc       0x80 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o)
+ .rodata.two_over_pi
+                0x0800a94c      0x318 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o)
+ .rodata.init_jk
+                0x0800ac64        0xc d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o)
+ .rodata.PIo2   0x0800ac70       0x2c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o)
+ .rodata.zeroes.7256
+                0x0800ac9c       0x10 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x0800acac       0x42 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o)
+ *fill*         0x0800acee        0x2 
+ .rodata.blanks.7255
+                0x0800acf0       0x10 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x0800ad00       0x10 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o)
+                                 0x12 (size before relaxing)
+ .rodata.__mprec_tens
+                0x0800ad10       0xc8 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x0800ad10                __mprec_tens
+ .rodata.p05.6085
+                0x0800add8        0xc d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ *fill*         0x0800ade4        0x4 
+ .rodata.__mprec_bigtens
+                0x0800ade8       0x28 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+                0x0800ade8                __mprec_bigtens
+ .rodata.str1.4
+                0x0800ae10       0x10 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+                                 0x12 (size before relaxing)
+ .rodata._ctype_
+                0x0800ae20      0x101 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-ctype_.o)
+                0x0800ae20                _ctype_
+ *(.eh_fram e*)
+
+.glue_7         0x0800af24        0x0
+ .glue_7        0x0800af24        0x0 linker stubs
+
+.glue_7t        0x0800af24        0x0
+ .glue_7t       0x0800af24        0x0 linker stubs
+
+.vfp11_veneer   0x0800af24        0x0
+ .vfp11_veneer  0x0800af24        0x0 linker stubs
+
+.v4_bx          0x0800af24        0x0
+ .v4_bx         0x0800af24        0x0 linker stubs
+
+.iplt           0x0800af24        0x0
+ .iplt          0x0800af24        0x0 ..\obj\timer.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0800af24                __exidx_start = .
+
+.ARM.exidx      0x0800af24        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0800af24        0x8 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_udivmoddi4.o)
+                0x0800af2c                __exidx_end = .
+                0x0800af2c                __etext = .
+                0x0800af2c                _sidata = __etext
+
+.rel.dyn        0x0800af2c        0x0
+ .rel.iplt      0x0800af2c        0x0 ..\obj\timer.o
+
+.data           0x20000000      0xce8 load address 0x0800af2c
+                0x20000000                __data_start__ = .
+                0x20000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+ .data          0x20000000      0x1b3 ..\obj\LCD_HD44780.o
+                0x20000000                page
+ .data          0x200001b3        0x1 ..\obj\stepper.o
+                0x200001b3                STEPPER_DIR
+ .data          0x200001b4       0x30 ..\obj\main.o
+                0x200001b4                exti_line_pressed
+                0x200001b6                irq_pressed
+ .data          0x200001e4        0x9 ..\obj\keypad.o
+                0x200001e4                readkey_done
+                0x200001e6                RowPressed
+                0x200001e8                ColPressed
+                0x200001ea                blink_interval_ms
+                0x200001ec                pad
+ *fill*         0x200001ed        0x3 
+ .data          0x200001f0       0x55 ..\obj\adc.o
+                0x200001f0                ADC1P
+ *fill*         0x20000245        0x3 
+ .data          0x20000248       0xf0 ..\obj\symbol.o
+                0x20000248                TIMERS_0CHN
+                0x2000024c                TIMERS_1CHN
+                0x20000250                TIMERS_2CHN
+                0x20000254                TIMERS_4CHN
+                0x2000025c                INPUT_PIN
+                0x20000280                OUTPUT_PIN
+                0x200002c8                KPAD_ARRAY
+                0x200002d8                ROW_PIN
+                0x200002e8                COL_PIN
+                0x200002f8                CTRL_PIN
+                0x20000300                DATA_PIN
+                0x20000310                _7SEG_LED
+                0x20000314                _7SEG_DIG
+                0x20000320                FullStep
+                0x20000324                HalfStep
+                0x2000032c                ADC1_PIN
+                0x20000334                ADC1_SEQ
+ .data.__fdlib_version
+                0x20000338        0x1 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+                0x20000338                __fdlib_version
+ *fill*         0x20000339        0x7 
+ .data.impure_data
+                0x20000340      0x428 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000768        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+                0x20000768                _impure_ptr
+ .data.__malloc_av_
+                0x2000076c      0x408 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x2000076c                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x20000b74        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000b74                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x20000b78        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000b78                __malloc_sbrk_base
+ .data.__global_locale
+                0x20000b7c      0x16c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+                0x20000b7c                __global_locale
+                0x20000ce8                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end, .)
+                0x20000ce8                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                [!provide]                PROVIDE (__init_array_end, .)
+                0x20000ce8                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x20000ce8                . = ALIGN (0x4)
+                0x20000ce8                __data_end__ = .
+                0x20000ce8                _edata = __data_end__
+
+.igot.plt       0x20000ce8        0x0 load address 0x0800bc14
+ .igot.plt      0x20000ce8        0x0 ..\obj\timer.o
+
+.bss            0x20000ce8       0x90 load address 0x0800bc14
+                0x20000ce8                . = ALIGN (0x4)
+                0x20000ce8                __bss_start__ = .
+                0x20000ce8                _sbss = __bss_start__
+ *(.bss*)
+ .bss           0x20000ce8        0x4 ..\obj\LCD_HD44780.o
+ .bss           0x20000cec       0x25 ..\obj\rtc.o
+ *fill*         0x20000d11        0x3 
+ .bss           0x20000d14       0x15 ..\obj\main.o
+                0x20000d14                TIM_HAS_1CHN
+                0x20000d15                TIM_HAS_2CHN
+                0x20000d16                TIM_HAS_4CHN
+ *fill*         0x20000d29        0x3 
+ .bss           0x20000d2c        0x6 ..\obj\ultrasonic.o
+                0x20000d2c                echo_pulse_width
+                0x20000d30                distance
+ .bss           0x20000d32        0x2 ..\obj\keypad.o
+                0x20000d32                all_row_output_low
+                0x20000d33                key_unread
+ .bss           0x20000d34        0x4 ..\obj\syscalls.o
+ .bss.__malloc_max_total_mem
+                0x20000d38        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000d38                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x20000d3c        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000d3c                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x20000d40        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000d40                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x20000d44       0x28 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000d44                __malloc_current_mallinfo
+ *(COMMON)
+ COMMON         0x20000d6c        0x8 ..\obj\rtc.o
+                0x20000d6c                rtc_dt
+ COMMON         0x20000d74        0x4 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+                0x20000d74                errno
+                0x20000d78                . = ALIGN (0x4)
+                0x20000d78                __bss_end__ = .
+                0x20000d78                _ebss = __bss_end__
+
+.heap           0x20000d78        0x0
+                0x20000d78                __end__ = .
+                0x20000d78                _end = __end__
+                0x20000d78                end = __end__
+ *(.heap*)
+                0x20000d78                __HeapLimit = .
+
+.co_stack       0x20000d78      0x800 load address 0x0800bca4
+                0x20000d78                . = ALIGN (0x8)
+ *(.co_stack .co_stack.*)
+ .co_stack      0x20000d78      0x800 ..\obj\startup_stm32f4xx.o
+                0x20000d78                pulStack
+                0x20020000                __StackTop = (ORIGIN (ram) + LENGTH (ram))
+                0x2001f800                __StackLimit = (__StackTop - SIZEOF (.co_stack))
+                [!provide]                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region ram  overflowed with stack)
+LOAD ..\obj\timer.o
+LOAD ..\obj\LCD_HD44780.o
+LOAD ..\obj\rtc.o
+LOAD ..\obj\stepper.o
+LOAD ..\obj\startup_stm32f4xx.o
+LOAD ..\obj\main.o
+LOAD ..\obj\gpio.o
+LOAD ..\obj\ultrasonic.o
+LOAD ..\obj\interrupt.o
+LOAD ..\obj\keypad.o
+LOAD ..\obj\system_stm32f4xx.o
+LOAD ..\obj\syscalls.o
+LOAD ..\obj\adc.o
+LOAD ..\obj\symbol.o
+LOAD ..\obj\misc.o
+LOAD ..\obj\SN74HC595.o
+LOAD ..\obj\clock.o
+LOAD d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a
+START GROUP
+LOAD d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a
+LOAD d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a
+LOAD d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libc.a
+END GROUP
+OUTPUT(blinkled.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x7016
+ .debug_info    0x00000000     0x10c4 ..\obj\timer.o
+ .debug_info    0x000010c4      0x995 ..\obj\LCD_HD44780.o
+ .debug_info    0x00001a59      0x7d9 ..\obj\rtc.o
+ .debug_info    0x00002232      0x62d ..\obj\stepper.o
+ .debug_info    0x0000285f       0xf2 ..\obj\startup_stm32f4xx.o
+ .debug_info    0x00002951      0xf5a ..\obj\main.o
+ .debug_info    0x000038ab      0x7bc ..\obj\gpio.o
+ .debug_info    0x00004067      0x93e ..\obj\ultrasonic.o
+ .debug_info    0x000049a5      0x6af ..\obj\interrupt.o
+ .debug_info    0x00005054      0x27c ..\obj\keypad.o
+ .debug_info    0x000052d0      0x458 ..\obj\syscalls.o
+ .debug_info    0x00005728      0xdde ..\obj\adc.o
+ .debug_info    0x00006506      0x277 ..\obj\symbol.o
+ .debug_info    0x0000677d      0x297 ..\obj\misc.o
+ .debug_info    0x00006a14      0x217 ..\obj\SN74HC595.o
+ .debug_info    0x00006c2b      0x3eb ..\obj\clock.o
+
+.debug_abbrev   0x00000000     0x15fa
+ .debug_abbrev  0x00000000      0x240 ..\obj\timer.o
+ .debug_abbrev  0x00000240      0x1bf ..\obj\LCD_HD44780.o
+ .debug_abbrev  0x000003ff      0x165 ..\obj\rtc.o
+ .debug_abbrev  0x00000564      0x15c ..\obj\stepper.o
+ .debug_abbrev  0x000006c0       0xb0 ..\obj\startup_stm32f4xx.o
+ .debug_abbrev  0x00000770      0x283 ..\obj\main.o
+ .debug_abbrev  0x000009f3      0x198 ..\obj\gpio.o
+ .debug_abbrev  0x00000b8b      0x158 ..\obj\ultrasonic.o
+ .debug_abbrev  0x00000ce3      0x158 ..\obj\interrupt.o
+ .debug_abbrev  0x00000e3b      0x119 ..\obj\keypad.o
+ .debug_abbrev  0x00000f54       0xe5 ..\obj\syscalls.o
+ .debug_abbrev  0x00001039      0x259 ..\obj\adc.o
+ .debug_abbrev  0x00001292       0x5f ..\obj\symbol.o
+ .debug_abbrev  0x000012f1      0x106 ..\obj\misc.o
+ .debug_abbrev  0x000013f7       0xf0 ..\obj\SN74HC595.o
+ .debug_abbrev  0x000014e7      0x113 ..\obj\clock.o
+
+.debug_aranges  0x00000000      0x488
+ .debug_aranges
+                0x00000000       0x88 ..\obj\timer.o
+ .debug_aranges
+                0x00000088       0x88 ..\obj\LCD_HD44780.o
+ .debug_aranges
+                0x00000110       0x30 ..\obj\rtc.o
+ .debug_aranges
+                0x00000140       0x38 ..\obj\stepper.o
+ .debug_aranges
+                0x00000178       0x28 ..\obj\startup_stm32f4xx.o
+ .debug_aranges
+                0x000001a0       0x90 ..\obj\main.o
+ .debug_aranges
+                0x00000230       0x78 ..\obj\gpio.o
+ .debug_aranges
+                0x000002a8       0x20 ..\obj\ultrasonic.o
+ .debug_aranges
+                0x000002c8       0x38 ..\obj\interrupt.o
+ .debug_aranges
+                0x00000300       0x28 ..\obj\keypad.o
+ .debug_aranges
+                0x00000328       0x60 ..\obj\syscalls.o
+ .debug_aranges
+                0x00000388       0x60 ..\obj\adc.o
+ .debug_aranges
+                0x000003e8       0x18 ..\obj\symbol.o
+ .debug_aranges
+                0x00000400       0x38 ..\obj\misc.o
+ .debug_aranges
+                0x00000438       0x28 ..\obj\SN74HC595.o
+ .debug_aranges
+                0x00000460       0x28 ..\obj\clock.o
+
+.debug_ranges   0x00000000      0x398
+ .debug_ranges  0x00000000       0x78 ..\obj\timer.o
+ .debug_ranges  0x00000078       0x90 ..\obj\LCD_HD44780.o
+ .debug_ranges  0x00000108       0x20 ..\obj\rtc.o
+ .debug_ranges  0x00000128       0x28 ..\obj\stepper.o
+ .debug_ranges  0x00000150       0x18 ..\obj\startup_stm32f4xx.o
+ .debug_ranges  0x00000168       0x80 ..\obj\main.o
+ .debug_ranges  0x000001e8       0x68 ..\obj\gpio.o
+ .debug_ranges  0x00000250       0x10 ..\obj\ultrasonic.o
+ .debug_ranges  0x00000260       0x28 ..\obj\interrupt.o
+ .debug_ranges  0x00000288       0x18 ..\obj\keypad.o
+ .debug_ranges  0x000002a0       0x50 ..\obj\syscalls.o
+ .debug_ranges  0x000002f0       0x50 ..\obj\adc.o
+ .debug_ranges  0x00000340       0x28 ..\obj\misc.o
+ .debug_ranges  0x00000368       0x18 ..\obj\SN74HC595.o
+ .debug_ranges  0x00000380       0x18 ..\obj\clock.o
+
+.debug_line     0x00000000     0x2a95
+ .debug_line    0x00000000      0x50a ..\obj\timer.o
+ .debug_line    0x0000050a      0x3df ..\obj\LCD_HD44780.o
+ .debug_line    0x000008e9      0x2e7 ..\obj\rtc.o
+ .debug_line    0x00000bd0      0x31b ..\obj\stepper.o
+ .debug_line    0x00000eeb       0xb5 ..\obj\startup_stm32f4xx.o
+ .debug_line    0x00000fa0      0x511 ..\obj\main.o
+ .debug_line    0x000014b1      0x310 ..\obj\gpio.o
+ .debug_line    0x000017c1      0x204 ..\obj\ultrasonic.o
+ .debug_line    0x000019c5      0x223 ..\obj\interrupt.o
+ .debug_line    0x00001be8      0x1ee ..\obj\keypad.o
+ .debug_line    0x00001dd6      0x1e9 ..\obj\syscalls.o
+ .debug_line    0x00001fbf      0x343 ..\obj\adc.o
+ .debug_line    0x00002302      0x11f ..\obj\symbol.o
+ .debug_line    0x00002421      0x225 ..\obj\misc.o
+ .debug_line    0x00002646      0x1f7 ..\obj\SN74HC595.o
+ .debug_line    0x0000283d      0x258 ..\obj\clock.o
+
+.debug_str      0x00000000     0x2135
+ .debug_str     0x00000000      0xb93 ..\obj\timer.o
+                                0xc40 (size before relaxing)
+ .debug_str     0x00000b93      0x35c ..\obj\LCD_HD44780.o
+                                0x542 (size before relaxing)
+ .debug_str     0x00000eef      0x1dc ..\obj\rtc.o
+                                0x4e2 (size before relaxing)
+ .debug_str     0x000010cb      0x1c3 ..\obj\stepper.o
+                                0x4e2 (size before relaxing)
+ .debug_str     0x0000128e       0xc4 ..\obj\startup_stm32f4xx.o
+                                0x15b (size before relaxing)
+ .debug_str     0x00001352      0x4a1 ..\obj\main.o
+                                0xde9 (size before relaxing)
+ .debug_str     0x000017f3      0x160 ..\obj\gpio.o
+                                0x49f (size before relaxing)
+ .debug_str     0x00001953       0x82 ..\obj\ultrasonic.o
+                                0x94c (size before relaxing)
+ .debug_str     0x000019d5       0xfa ..\obj\interrupt.o
+                                0x4a5 (size before relaxing)
+ .debug_str     0x00001acf       0x70 ..\obj\keypad.o
+                                0x2ed (size before relaxing)
+ .debug_str     0x00001b3f      0x195 ..\obj\syscalls.o
+                                0x35f (size before relaxing)
+ .debug_str     0x00001cd4      0x234 ..\obj\adc.o
+                                0xbe2 (size before relaxing)
+ .debug_str     0x00001f08       0x6e ..\obj\symbol.o
+                                0x272 (size before relaxing)
+ .debug_str     0x00001f76       0x8f ..\obj\misc.o
+                                0x2a4 (size before relaxing)
+ .debug_str     0x00002005       0x8f ..\obj\SN74HC595.o
+                                0x256 (size before relaxing)
+ .debug_str     0x00002094       0xa1 ..\obj\clock.o
+                                0x3c0 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ..\obj\timer.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ..\obj\LCD_HD44780.o
+ .comment       0x0000006e       0x6f ..\obj\rtc.o
+ .comment       0x0000006e       0x6f ..\obj\stepper.o
+ .comment       0x0000006e       0x6f ..\obj\startup_stm32f4xx.o
+ .comment       0x0000006e       0x6f ..\obj\main.o
+ .comment       0x0000006e       0x6f ..\obj\gpio.o
+ .comment       0x0000006e       0x6f ..\obj\ultrasonic.o
+ .comment       0x0000006e       0x6f ..\obj\interrupt.o
+ .comment       0x0000006e       0x6f ..\obj\keypad.o
+ .comment       0x0000006e       0x6f ..\obj\syscalls.o
+ .comment       0x0000006e       0x6f ..\obj\adc.o
+ .comment       0x0000006e       0x6f ..\obj\symbol.o
+ .comment       0x0000006e       0x6f ..\obj\misc.o
+ .comment       0x0000006e       0x6f ..\obj\SN74HC595.o
+ .comment       0x0000006e       0x6f ..\obj\clock.o
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\timer.o
+ .ARM.attributes
+                0x00000033       0x33 ..\obj\LCD_HD44780.o
+ .ARM.attributes
+                0x00000066       0x33 ..\obj\rtc.o
+ .ARM.attributes
+                0x00000099       0x33 ..\obj\stepper.o
+ .ARM.attributes
+                0x000000cc       0x33 ..\obj\startup_stm32f4xx.o
+ .ARM.attributes
+                0x000000ff       0x33 ..\obj\main.o
+ .ARM.attributes
+                0x00000132       0x33 ..\obj\gpio.o
+ .ARM.attributes
+                0x00000165       0x33 ..\obj\ultrasonic.o
+ .ARM.attributes
+                0x00000198       0x33 ..\obj\interrupt.o
+ .ARM.attributes
+                0x000001cb       0x33 ..\obj\keypad.o
+ .ARM.attributes
+                0x000001fe       0x33 ..\obj\syscalls.o
+ .ARM.attributes
+                0x00000231       0x33 ..\obj\adc.o
+ .ARM.attributes
+                0x00000264       0x33 ..\obj\symbol.o
+ .ARM.attributes
+                0x00000297       0x33 ..\obj\misc.o
+ .ARM.attributes
+                0x000002ca       0x33 ..\obj\SN74HC595.o
+ .ARM.attributes
+                0x000002fd       0x33 ..\obj\clock.o
+ .ARM.attributes
+                0x00000330       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_cos.o)
+ .ARM.attributes
+                0x0000035e       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_round.o)
+ .ARM.attributes
+                0x0000038c       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_sin.o)
+ .ARM.attributes
+                0x000003ba       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o)
+ .ARM.attributes
+                0x000003e8       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_log.o)
+ .ARM.attributes
+                0x00000416       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o)
+ .ARM.attributes
+                0x00000444       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_cos.o)
+ .ARM.attributes
+                0x00000472       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o)
+ .ARM.attributes
+                0x000004a0       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_sin.o)
+ .ARM.attributes
+                0x000004ce       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x000004fc       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x0000052a       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x00000558       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_fabs.o)
+ .ARM.attributes
+                0x00000586       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_floor.o)
+ .ARM.attributes
+                0x000005b4       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_scalbn.o)
+ .ARM.attributes
+                0x000005e2       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_copysign.o)
+ .ARM.attributes
+                0x00000610       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000062e       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000064c       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000066a       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000688       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x000006a6       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x000006c4       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x000006e2       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000700       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000071e       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x0000073c       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x0000075a       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000788       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000007b6       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x000007e4       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000812       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000840       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-localeconv.o)
+ .ARM.attributes
+                0x0000086e       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000089c       0x1c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000008b8       0x1c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000008d4       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000902       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000930       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000095e       0x1c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000097a       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x000009a8       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x000009d6       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000a04       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000a32       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x00000a60       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000a8e       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000abc       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000aea       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000b18       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x00000b46       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000b74       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000b92       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000bb0       0x2e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000bde       0x1e d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x00000000     0x1a40
+ .debug_frame   0x00000000      0x230 ..\obj\timer.o
+ .debug_frame   0x00000230      0x204 ..\obj\LCD_HD44780.o
+ .debug_frame   0x00000434       0x84 ..\obj\rtc.o
+ .debug_frame   0x000004b8       0xac ..\obj\stepper.o
+ .debug_frame   0x00000564       0x4c ..\obj\startup_stm32f4xx.o
+ .debug_frame   0x000005b0      0x1ec ..\obj\main.o
+ .debug_frame   0x0000079c      0x1c0 ..\obj\gpio.o
+ .debug_frame   0x0000095c       0x38 ..\obj\ultrasonic.o
+ .debug_frame   0x00000994       0xac ..\obj\interrupt.o
+ .debug_frame   0x00000a40       0x58 ..\obj\keypad.o
+ .debug_frame   0x00000a98      0x168 ..\obj\syscalls.o
+ .debug_frame   0x00000c00      0x17c ..\obj\adc.o
+ .debug_frame   0x00000d7c       0xb0 ..\obj\misc.o
+ .debug_frame   0x00000e2c       0x5c ..\obj\SN74HC595.o
+ .debug_frame   0x00000e88       0x54 ..\obj\clock.o
+ .debug_frame   0x00000edc       0x34 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_cos.o)
+ .debug_frame   0x00000f10       0x28 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_round.o)
+ .debug_frame   0x00000f38       0x34 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_sin.o)
+ .debug_frame   0x00000f6c       0x40 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-w_log.o)
+ .debug_frame   0x00000fac       0x54 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-e_log.o)
+ .debug_frame   0x00001000       0x48 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-ef_rem_pio2.o)
+ .debug_frame   0x00001048       0x34 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_cos.o)
+ .debug_frame   0x0000107c       0x50 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_rem_pio2.o)
+ .debug_frame   0x000010cc       0x34 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-kf_sin.o)
+ .debug_frame   0x00001100       0x20 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00001120       0x20 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00001140       0x20 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_fabs.o)
+ .debug_frame   0x00001160       0x30 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_floor.o)
+ .debug_frame   0x00001190       0x2c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_scalbn.o)
+ .debug_frame   0x000011bc       0x20 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-sf_copysign.o)
+ .debug_frame   0x000011dc       0x20 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-errno.o)
+ .debug_frame   0x000011fc       0x84 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sprintf.o)
+ .debug_frame   0x00001280       0x44 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfprintf.o)
+ .debug_frame   0x000012c4       0x88 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-dtoa.o)
+ .debug_frame   0x0000134c       0x40 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-localeconv.o)
+ .debug_frame   0x0000138c       0x58 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+ .debug_frame   0x000013e4       0x30 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+ .debug_frame   0x00001414      0x264 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mprec.o)
+ .debug_frame   0x00001678       0x2c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x000016a4       0x78 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000171c       0x28 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-callocr.o)
+ .debug_frame   0x00001744       0x74 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+ .debug_frame   0x000017b8       0x84 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-locale.o)
+ .debug_frame   0x0000183c       0x4c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00001888       0x30 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memmove.o)
+ .debug_frame   0x000018b8       0x34 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memset.o)
+ .debug_frame   0x000018ec       0x60 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reallocr.o)
+ .debug_frame   0x0000194c       0x58 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .debug_frame   0x000019a4       0x3c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-wctomb_r.o)
+ .debug_frame   0x000019e0       0x2c d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00001a0c       0x34 d:/onedrive/programs/stm32_soft/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m\libgcc.a(_udivmoddi4.o)

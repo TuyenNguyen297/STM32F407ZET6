@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=blinkled.map -O0 --gc-sections -LD:\OneDrive\PROGRAMS\STM32_SOFT\CoIDE\configuration\ProgramData\blinkled -TD:\OneDrive\PROGRAMS\STM32_SOFT\CoIDE\configuration\ProgramData\blinkled/arm-gcc-link.ld -g -L..\..\.. -lm">
+      <target file="blinkled.elf" lastModified="18d53c65fe6">
+         <source file="..\obj\timer.o" lastModified="18d53c65ab1"/>
+         <source file="..\obj\LCD_HD44780.o" lastModified="18d53c65af3"/>
+         <source file="..\obj\rtc.o" lastModified="18d53c65b2b"/>
+         <source file="..\obj\stepper.o" lastModified="18d53c65b65"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="18d53c65b8b"/>
+         <source file="..\obj\main.o" lastModified="18d53c65bd5"/>
+         <source file="..\obj\gpio.o" lastModified="18d53c65c10"/>
+         <source file="..\obj\ultrasonic.o" lastModified="18d53c65c42"/>
+         <source file="..\obj\interrupt.o" lastModified="18d53c65c75"/>
+         <source file="..\obj\keypad.o" lastModified="18d53c65cb1"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="18d53c65ce7"/>
+         <source file="..\obj\syscalls.o" lastModified="18d53c65d13"/>
+         <source file="..\obj\adc.o" lastModified="18d53c65d5a"/>
+         <source file="..\obj\symbol.o" lastModified="18d53c65d86"/>
+         <source file="..\obj\misc.o" lastModified="18d53c65dbb"/>
+         <source file="..\obj\SN74HC595.o" lastModified="18d53c65de6"/>
+         <source file="..\obj\clock.o" lastModified="18d53c65e1a"/>
+      </target>
+   </processor>
+</history>
