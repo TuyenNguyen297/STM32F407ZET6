@@ -1,2 +1,2 @@
 # STM32F407ZET6
-![20240218_101832 (1)](https://github.com/TuyenNguyen297/STM32F407ZET6/assets/110365920/16739ca4-1c6e-470d-921b-f7a07a4564bf)
+![20240218_101832](https://github.com/TuyenNguyen297/STM32F407ZET6/assets/110365920/d7cb0a5a-6ffa-41a4-9453-4d0db60da39e)
